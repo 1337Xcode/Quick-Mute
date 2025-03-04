@@ -1,6 +1,6 @@
-# Twitter Quick Mute
+# Quick Mute
 
-Twitter Quick Mute is a Chrome extension that lets you add highlighted text into Twitter/X's muted keywords by pressing Ctrl+B.
+Quick Mute is a Chrome extension that lets you add highlighted text into Twitter/X's muted keywords by pressing Ctrl+B.
 
 ## Installation (Unpacked)
 
