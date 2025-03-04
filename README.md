@@ -7,7 +7,7 @@ Twitter Quick Mute is a Chrome extension that lets you add highlighted text into
 1. Open Chrome and navigate to `chrome://extensions/`.
 2. Enable **Developer mode** (toggle on the top-right).
 3. Click **Load unpacked**.
-4. Select the `TwitterBlock` folder.
+4. Select the `Quick-Mute` folder.
 5. The extension is now installed locally.
 
 ## Usage
