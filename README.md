@@ -12,4 +12,4 @@ Quick Mute is a Chrome extension that lets you add highlighted text into Twitter
 
 ## Disclaimer
 
-This extension is unofficial and for personal, local use only. It is not published on the Chrome Web Store. Use at your own risk.
+This extension is unofficial and for personal, local use only.
